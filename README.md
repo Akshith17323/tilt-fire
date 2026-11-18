@@ -1,6 +1,6 @@
 # Tilt Fire
 
-An Expo React Native mobile application configured for building standalone Android APKs and running on local devices.
+An Expo React Native mobile application running on **Expo SDK 58** (React Native 0.88), configured for building standalone Android APKs and running on local devices.
 
 ---
 
